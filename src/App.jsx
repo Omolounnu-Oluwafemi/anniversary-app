@@ -8,7 +8,7 @@ import TimelinePage from './pages/TimelinePage';
 import GalleryPage from './pages/GalleryPage';
 import WitnessPage from './pages/WitnessPage';
 import BloopersPage from './pages/BloopersPage';
-// import ReasonsPage from './pages/ReasonsPage';
+import PrayerPage from './pages/PrayerPage';
 import PuzzlePage from './pages/PuzzlePage';
 import QuizPage from './pages/QuizPage';
 import RevealPage from './pages/RevealPage';
@@ -20,7 +20,7 @@ const PAGES = [
   { id: 'gallery',  dark: false, Component: GalleryPage },
   { id: 'witness',  dark: true,  Component: WitnessPage },
   { id: 'bloopers', dark: true,  Component: BloopersPage },
-  // { id: 'reasons',  dark: true,  Component: ReasonsPage },
+  { id: 'prayer',   dark: true,  Component: PrayerPage },
   { id: 'puzzle',   dark: true,  Component: PuzzlePage },
   { id: 'quiz',     dark: true,  Component: QuizPage },
   { id: 'reveal',   dark: true,  Component: RevealPage },

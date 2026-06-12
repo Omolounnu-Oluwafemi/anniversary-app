@@ -118,6 +118,82 @@ export const reasons = [
   { day: 30, note: "Today I thought about the first time I saw you and where we are now, and I could not believe the distance we have covered together. I would walk it all again." },
 ];
 
+// ── 12 PRAYERS — one per month ──
+export const prayers = [
+  {
+    month: 'June',
+    reference: 'Psalm 20:4',
+    verse: '"May he give you the desire of your heart and make all your plans succeed."',
+    prayer: 'Lord, as we mark the beginning of this love, align our desires with Yours. Let every dream we carry for each other be planted by You — and let every plan we make be one You have already blessed. We trust our story to Your hands.',
+  },
+  {
+    month: 'July',
+    reference: '1 Corinthians 13:4–7',
+    verse: '"Love is patient, love is kind… it always protects, always trusts, always hopes, always perseveres."',
+    prayer: 'Father, teach us to love the way You describe love — not as a feeling that fades but as a daily choice. When patience is hard and kindness costs us something, remind us that we are practicing the very nature of who You are.',
+  },
+  {
+    month: 'August',
+    reference: 'Jeremiah 29:11',
+    verse: '"For I know the plans I have for you — plans to prosper you and not to harm you, plans to give you hope and a future."',
+    prayer: 'God of every season, even in the months that felt uncertain, You were writing something good. We declare that our future — together — is in Your hands, and those hands have never failed. We rest in that.',
+  },
+  {
+    month: 'September',
+    reference: 'Philippians 4:6–7',
+    verse: '"Do not be anxious about anything… and the peace of God, which transcends all understanding, will guard your hearts."',
+    prayer: 'Lord, guard our hearts against every fear that tries to enter this relationship. When we do not have all the answers, let Your peace — the kind that makes no natural sense — stand watch over what we are building together.',
+  },
+  {
+    month: 'October',
+    reference: 'Proverbs 3:5–6',
+    verse: '"Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."',
+    prayer: 'Father, there are things about this journey we cannot see clearly yet. We choose not to lean on our own understanding. Straighten the paths before us — and let every crooked thing that tries to confuse what we have be made right by You.',
+  },
+  {
+    month: 'November',
+    reference: 'Romans 8:28',
+    verse: '"And we know that in all things God works for the good of those who love him."',
+    prayer: 'God, thank You for the promise that not even the difficult moments are wasted. The misunderstandings, the hard weeks, the silent nights — You were working in all of it. We declare that every thing about us is working together for our good.',
+  },
+  {
+    month: 'December',
+    reference: 'Isaiah 41:10',
+    verse: '"Do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you."',
+    prayer: 'Lord, in the coldest and quietest season, remind us that You are present. When either of us feels afraid or uncertain, let the truth that You are with us be louder than any doubt. Strengthen what is between us — and hold it steady.',
+  },
+  {
+    month: 'January',
+    reference: 'Lamentations 3:22–23',
+    verse: '"His mercies are new every morning; great is your faithfulness."',
+    prayer: 'Father, as a new year begins, we ask that Your mercy be fresh over this love every single morning. We will not carry yesterday\'s weights into today. Make us people of new beginnings — with each other and with You.',
+  },
+  {
+    month: 'February',
+    reference: 'Song of Solomon 8:6–7',
+    verse: '"Love is as strong as death… Many waters cannot quench love; rivers cannot sweep it away."',
+    prayer: 'Lord, let what You have placed between us be unquenchable. Let no storm, no distance, no pressure, no voice be loud enough to sweep away what You Yourself authored. We ask for a love that cannot be drowned.',
+  },
+  {
+    month: 'March',
+    reference: 'Ephesians 3:17–19',
+    verse: '"I pray that you… may have power… to grasp how wide and long and high and deep is the love of Christ."',
+    prayer: 'God, root us and establish us in love so deep that it holds even when everything else shifts. Let our love for each other grow from the overflow of knowing how much You love us — wide, long, high, deep, and beyond measure.',
+  },
+  {
+    month: 'April',
+    reference: '1 John 4:18',
+    verse: '"There is no fear in love. But perfect love drives out fear."',
+    prayer: 'Father, cast out every fear that tries to make us hold back from each other — fear of vulnerability, fear of the future, fear of being too much or not enough. Let Your perfect love make us free and fearless in how we love.',
+  },
+  {
+    month: 'May',
+    reference: 'Numbers 6:24–26',
+    verse: '"The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; the Lord turn his face toward you and give you peace."',
+    prayer: 'Lord, speak this blessing over us as we approach one full year. Bless us and keep us. Shine on the life we are building. Be gracious to every weakness in us. And give us — as a gift — a peace that settles like sunlight over everything we are and everything we hope to become. Amen.',
+  },
+];
+
 // ── QUIZ ──
 export const quizQuestions = [
   {
